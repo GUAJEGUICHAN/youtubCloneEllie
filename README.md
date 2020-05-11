@@ -1,2 +1,0 @@
-# youtubCloneEllie
-Created with CodeSandbox
